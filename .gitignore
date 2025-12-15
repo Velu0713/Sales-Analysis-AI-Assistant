@@ -20,4 +20,4 @@ Thumbs.db
 
 # Ignore temporary files
 *.log
-*.tmp
+*.tmp.env 
