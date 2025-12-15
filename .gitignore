@@ -1,0 +1,23 @@
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore vector store (FAISS index files)
+vectorstore/
+vectorstore/index.faiss
+vectorstore/meta.pkl
+
+# Ignore cache files
+_pycache_/
+*.pyc
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore temporary files
+*.log
+*.tmp

@@ -1,0 +1,10 @@
+streamlit>=1.25
+pandas
+numpy
+scikit-learn
+faiss-cpu
+requests   
+scipy
+matplotlib
+plotly
+python-dotenv
